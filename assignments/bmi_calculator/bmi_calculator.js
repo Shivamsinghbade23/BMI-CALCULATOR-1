@@ -6,7 +6,7 @@ function BMICalculator(mass, height) {
     return BMI
     }
     else{
-        return ''
+        return "INVALID INPUT"
     }
 }
 
